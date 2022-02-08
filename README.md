@@ -1,10 +1,10 @@
-###  Opa, tudo certo?
+###  Salve
 
 
 
 - 🔭 Estou cursando engenharia da computação
 - 🌱 Atualmente estou muito interessado no estudo de NodeJS e Python
-- 😄 Nas horas vagas eu costumo fazer clones de aplicativo, além de jogar um lolzinho
+- 😄 Nas horas vagas eu costumo fazer clones de aplicativo
 
  <div>
   <a href="https://github.com/VictorAmerico">
