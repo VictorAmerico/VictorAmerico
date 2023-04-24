@@ -2,10 +2,9 @@
 
 
 
-- 🔭 Estou cursando engenharia da computação
-- 🌱 Atualmente estou muito interessado no estudo de NodeJS e Python
-- 😄 Nas horas vagas eu costumo fazer clones de aplicativo
-
+- Estou cursando engenharia da computação
+- Atualmente estou muito interessado no estudo de NodeJS e Python
+- Nas horas vagas eu costumo fazer clones de aplicativo
  <div>
   <a href="https://github.com/VictorAmerico">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictorAmerico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
